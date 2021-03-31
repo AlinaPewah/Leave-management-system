@@ -1,17 +1,32 @@
-<<<<<<< HEAD
-#  Nodejs server for the House & Plots Management App
-##  With MongoDB
+# LMS
+ Leave Management Systems 
+-----------------------------------------------------------------------
 
-Go to the [Documentation](server/api/v1/docs/)
+# Documentation
+
+
+----------------------------------------------------------------------------------
+
+# Installation Step
+
+ ### clone this repo
+     ```git clone https://github.com/AlinaPewah/Leave-management-system.git````
      
-#       Installations Without using Docker
+  ### Change into project folder/directory
+     ``` cd Leave-management-system.git ```
+     
+   
+##  Installations Without using Docker
+  ### Install dependencies
     ```npm install```
 
+  ### Build the client side 
+     ```` npm run build ``
+    
+  ### Start the server
     ```npm start```
 
-#       Installations With Docker
+##  Installations With Docker
   //To Do 
-=======
-# LMS
-Leave Management Systems
->>>>>>> c276711440594c766656c77c0808a58fe322ec34
+
+
